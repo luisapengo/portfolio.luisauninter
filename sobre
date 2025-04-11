@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Sobre mim</title>
+  <link rel="stylesheet" href="estilo.css" />
+</head>
+<body>
+  <header>
+    <nav>
+      <ul>
+        <li><a href="index.html">Início</a></li>
+        <li><a href="sobre.html">Sobre mim</a></li>
+        <li><a href="formacao.html">Formação</a></li>
+        <li><a href="portfolio.html">Portfólio</a></li>
+        <li><a href="contato.html">Contato</a></li>
+      </ul>
+    </nav>
+  </header>
+  <main>
+    <h1>Sobre mim</h1>
+    <p>Sou engenheira química com experiência nas indústrias petroquímica e metalúrgica, atuando com equipes globais e projetos interdisciplinares.</p>
+    <p>Atuo também na área comercial, com venda de projetos de engenharia e prospecção de recursos. Gosto de aprender coisas novas, dar aulas e me comunicar de forma clara e eficiente.</p>
+    <p>No meu tempo livre, gosto de ensinar matemática para o ENEM em um instituto voltado para mulheres, explorar temas de comunicação e me desafiar com novos aprendizados técnicos e criativos.</p>
+  </main>
+  <footer>
+    <p>&copy; 2025 - [Seu Nome]</p>
+  </footer>
+</body>
+</html>
